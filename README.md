@@ -1,6 +1,6 @@
 # arhived
 
-The repository for BiteShell
+The repository for BiteApps Bitelocker
 
 Source will be soon
 
