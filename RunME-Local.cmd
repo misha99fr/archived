@@ -1,0 +1,3 @@
+@Echo OFF
+title Loading Utility...
+powershell -executionpolicy Unrestricted  -file ".\Bitelocker.ps1"
